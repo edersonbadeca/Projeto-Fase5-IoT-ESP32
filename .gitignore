@@ -33,19 +33,19 @@ htmlcov/
 *.sqlite3
 
 # React Frontend
-frontend/node_modules/
-frontend/.pnp
-frontend/.pnp.js
-frontend/coverage/
-frontend/build/
-frontend/.DS_Store
-frontend/.env.local
-frontend/.env.development.local
-frontend/.env.test.local
-frontend/.env.production.local
-frontend/npm-debug.log*
-frontend/yarn-debug.log*
-frontend/yarn-error.log*
+src/frontend/node_modules/**
+src/frontend/.pnp
+src/frontend/.pnp.js
+src/frontend/coverage/
+src/frontend/build/
+src/frontend/.DS_Store
+src/frontend/.env.local
+src/frontend/.env.development.local
+src/frontend/.env.test.local
+src/frontend/.env.production.local
+src/frontend/npm-debug.log*
+src/frontend/yarn-debug.log*
+src/frontend/yarn-error.log*
 
 # IDE specific files
 .idea/
@@ -70,4 +70,4 @@ yarn-error.log*
 # migrations/versions/
 
 # Jupyter Notebook
-.ipynb_checkpoints 
+.ipynb_checkpoints
