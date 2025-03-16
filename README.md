@@ -37,7 +37,8 @@
 ### Coordenador(a)
 - <a href="https://www.linkedin.com/company/inova-fusca">ANDRÉ GODOI CHIOVATO</a>
 
-
+### Link de explicação de funcionamento
+[Clique aqui para ver o video](https://youtu.be/xFrIokW-Veg)
 ## 📜 Descrição
 
 O projeto "AgroSense IoT" é um sistema avançado de monitoramento ambiental desenvolvido para otimizar a produção agrícola através da coleta e análise de dados em tempo real. Utilizando a versatilidade do microcontrolador ESP32 em conjunto com sensores especializados, o sistema oferece uma solução completa para o monitoramento de condições críticas em ambientes agrícolas.
